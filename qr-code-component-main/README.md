@@ -46,13 +46,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Consistent Practice hones your skills.
 
 
-
-
-
-
-
-
-
 ### Continued development
 
 Understand centering a div. I had to check online how to center a div but now I understand. The next one, I wanna build without looking it up
